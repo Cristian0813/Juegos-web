@@ -1,5 +1,18 @@
-# Quiz App con React y Tailwind
+# Quiz App
 
+Este proyecto es una implementación simple del juego Quiz usando con React y Tailwind
+
+## Contenido
+
+- [Descripción](#descripción)
+- [Demo](#demo)
+- [Instalación](#instalación)
+- [Dependencias a instalar](#dependencias-a-instalar)
+- [Autor](#autor)
+- [Documentación](#documentación)
+- [Licencia](#licencia)
+
+## Descripción
 Esta aplicación Quiz ha sido construida usando React y Tailwind CSS. Utiliza un archivo data.js para almacenar preguntas y ofrece varias categorías como Ciencia, Deportes, Filosofía, Geografía, Historia, Literatura y Tecnología; cada categoría comienza con un cuestionario aleatorio compuesto por preguntas de opción múltiple. Los cuestionarios constan de 5 preguntas barajadas para mayor diversión y desafío. Una vez completado el test, se presenta al usuario el porcentaje de respuestas correctas alcanzado.
 
 La principal característica de la aplicación es su facilidad de uso, que la hace accesible tanto a usuarios nuevos como avanzados. Además, seleccionar una categoría preferida e iniciar un concurso de trivial sólo lleva unos segundos.
@@ -39,11 +52,11 @@ npx tailwindcss init -p
 
 Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en/main) para obtener más información.
 
-## Authors
+## Autor
 
 - [Cristian Arias](https://www.github.com/Cristian0813)
 
-## Documentation
+## Documentación
 
 <div align="left">
     <a href="https://es.react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
@@ -53,6 +66,6 @@ Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en
     <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
 </div>
 
-## License
+## Licencia
 
 Este proyecto está bajo la [Licencia MIT](https://github.com/Cristian0813/Juego_de_Quiz/blob/main/LICENSE)
