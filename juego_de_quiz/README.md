@@ -68,4 +68,4 @@ Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](https://github.com/Cristian0813/Juego_de_Quiz/blob/main/LICENSE)
+Este proyecto está bajo la [Licencia MIT](https://github.com/Cristian0813/Juegos-web/blob/main/juego_de_quiz/LICENSE)
