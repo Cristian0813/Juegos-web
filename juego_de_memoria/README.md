@@ -4,6 +4,16 @@ Un juego de memoria construido usando React, Tailwind CSS, y Vite. El objetivo d
 
 Este juego es una divertida manera de entrenar tu memoria y agilidad mental. El objetivo es encontrar todas las parejas ocultas de imágenes antes de que se agote el tiempo.
 
+## Contenido
+
+- [Demo](#demo)
+- [Características](#características)
+- [Instalación](#instalación)
+- [Dependencias a instalar](#dependencias-a-instalar)
+- [Autor](#autor)
+- [Documentación](#documentación)
+- [Licencia](#licencia)
+
 ## Demo
 
 [Juego de memoria](https://juego-de-memoria-ten.vercel.app/)
@@ -45,11 +55,11 @@ npx tailwindcss init -p
 
 Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en/main) para obtener más información.
 
-## Authors
+## Autor
 
 - [Cristian Arias](https://www.github.com/Cristian0813)
 
-## Documentation
+## Documentación
 <div align="left">
    <a href="https://es.react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
     <img width="12" />
@@ -58,5 +68,5 @@ Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en
     <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
 </div>
 
-## License
+## Licencia
 Este proyecto está bajo la [Licencia MIT](https://github.com/Cristian0813/Juego_de_Memoria/blob/main/LICENSE)
