@@ -41,4 +41,4 @@ El proyecto está organizado de la siguiente manera:
 
 ## Licencia
 
-Este tutorial está bajo la licencia [MIT](https://github.com/Cristian0813/3-en-raya/blob/main/LICENSE). Puedes usarlo y modificarlo libremente.
+Este tutorial está bajo la licencia [MIT](https://github.com/Cristian0813/Juegos-web/blob/main/juego-tres-en-raya/LICENSE). Puedes usarlo y modificarlo libremente.
