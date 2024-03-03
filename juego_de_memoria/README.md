@@ -1,11 +1,10 @@
 # Juego de Memoria
 
-Un juego de memoria construido usando React, Tailwind CSS, y Vite. El objetivo del juego es encontrar todos los pares de cartas iguales recordando sus posiciones.
-
-Este juego es una divertida manera de entrenar tu memoria y agilidad mental. El objetivo es encontrar todas las parejas ocultas de imágenes antes de que se agote el tiempo.
+Este proyecto es una implementación simple del juego Memoria usando con React y Tailwind
 
 ## Contenido
 
+- [Descripción](#descripción)
 - [Demo](#demo)
 - [Características](#características)
 - [Instalación](#instalación)
@@ -13,6 +12,11 @@ Este juego es una divertida manera de entrenar tu memoria y agilidad mental. El 
 - [Autor](#autor)
 - [Documentación](#documentación)
 - [Licencia](#licencia)
+
+
+## Descripción
+
+El juego de memoria no solo ofrece entretenimiento, sino que también sirve como una herramienta efectiva para entrenar y mejorar la memoria y la agilidad mental. A medida que los jugadores intentan encontrar todas las parejas ocultas de imágenes, se ven obligados a utilizar estrategias de memoria, concentración y atención plena, lo que proporciona un ejercicio cognitivo valioso y gratificante.
 
 ## Demo
 
