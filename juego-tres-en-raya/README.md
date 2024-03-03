@@ -6,6 +6,7 @@ Este proyecto es una implementación simple del juego "Tres en Raya" (Tic Tac To
 ## Contenido
 
 - [Descripción](#descripción)
+- [Demo](#demo)
 - [Instrucciones de Uso](#instrucciones-de-uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Licencia](#licencia)
@@ -13,6 +14,12 @@ Este proyecto es una implementación simple del juego "Tres en Raya" (Tic Tac To
 ## Descripción
 
 Este proyecto consiste en un juego de "Tres en Raya" en el cual dos jugadores se turnan para marcar casillas en un tablero de 3x3. El juego sigue las reglas estándar del "Tres en Raya", donde el objetivo es lograr tener tres fichas del mismo tipo en línea, ya sea horizontal, vertical o diagonalmente.
+
+## Demo
+
+Este es un demo [3 en raya](https://3-en-raya-nu.vercel.app/), dos jugadores se turnan para marcar casillas en un tablero de 3x3. El objetivo es lograr tener tres fichas del mismo tipo en línea, ya sea horizontal, vertical o diagonalmente.
+
+¡Diviértete jugando!
 
 ## Instrucciones de Uso
 
