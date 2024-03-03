@@ -6,7 +6,7 @@ Este juego es una divertida manera de entrenar tu memoria y agilidad mental. El 
 
 ## Demo
 
-[Juego de memori](https://juego-de-memoria-ten.vercel.app/)
+[Juego de memoria](https://juego-de-memoria-ten.vercel.app/)
 *(es una divertida manera de entrenar tu memoria y agilidad mental. El objetivo es encontrar todas las parejas ocultas de imágenes antes de que se agote el tiempo.)*
 
 
