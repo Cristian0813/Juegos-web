@@ -17,7 +17,7 @@ Este proyecto consiste en un juego de "Tres en Raya" en el cual dos jugadores se
 
 ## Demo
 
-Este es un demo [3 en raya](https://3-en-raya-nu.vercel.app/), dos jugadores se turnan para marcar casillas en un tablero de 3x3. El objetivo es lograr tener tres fichas del mismo tipo en línea, ya sea horizontal, vertical o diagonalmente.
+Este es un demo [3 en raya](https://juego-3-en-raya-ten.vercel.app/), dos jugadores se turnan para marcar casillas en un tablero de 3x3. El objetivo es lograr tener tres fichas del mismo tipo en línea, ya sea horizontal, vertical o diagonalmente.
 
 ¡Diviértete jugando!
 
