@@ -3,7 +3,7 @@
 En este repositorio encontrarás una colección de juegos web desarrollados utilizando una variedad de tecnologías y herramientas modernas. Cada juego ofrece una experiencia única y emocionante, diseñada para proporcionar entretenimiento y desafíos a jugadores de todas las edades.
 
 <div align="center">
-    <img src = "/public/Games.png" alt="Diseño de escritorio" style:width="100" height="100">
+    <img src = "/public/Games.png" alt="Diseño de escritorio">
 </div>
 
 Si deseas ver estos juegos en acción, puedes hacer clic [aquí](https://juegos-web.vercel.app/).
