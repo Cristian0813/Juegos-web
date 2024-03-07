@@ -6,7 +6,7 @@ En este repositorio encontrarás una colección de juegos web desarrollados util
     <img src = "/public/Games.png" alt="Diseño de escritorio">
 </div>
 
-Si deseas ver estos juegos en acción, puedes hacer clic [aquí](https://juegos-web.vercel.app/).
+Si deseas ver estos juegos en acción, puedes hacer clic [aquí](https://juegos-web.netlify.app/).
 
 ## Repositorios
 
