@@ -1,12 +1,26 @@
 # Juego de Memoria
 
-Un juego de memoria construido usando React, Tailwind CSS, y Vite. El objetivo del juego es encontrar todos los pares de cartas iguales recordando sus posiciones.
+Este proyecto es una implementación simple del juego Memoria usando con React y Tailwind
 
-Este juego es una divertida manera de entrenar tu memoria y agilidad mental. El objetivo es encontrar todas las parejas ocultas de imágenes antes de que se agote el tiempo.
+## Contenido
+
+- [Descripción](#descripción)
+- [Demo](#demo)
+- [Características](#características)
+- [Instalación](#instalación)
+- [Dependencias a instalar](#dependencias-a-instalar)
+- [Autor](#autor)
+- [Documentación](#documentación)
+- [Licencia](#licencia)
+
+
+## Descripción
+
+El juego de memoria no solo ofrece entretenimiento, sino que también sirve como una herramienta efectiva para entrenar y mejorar la memoria y la agilidad mental. A medida que los jugadores intentan encontrar todas las parejas ocultas de imágenes, se ven obligados a utilizar estrategias de memoria, concentración y atención plena, lo que proporciona un ejercicio cognitivo valioso y gratificante.
 
 ## Demo
 
-[Juego de memori](https://juego-de-memoria-ten.vercel.app/)
+[Juego de memoria](https://juego-de-memoria-ten.vercel.app/)
 *(es una divertida manera de entrenar tu memoria y agilidad mental. El objetivo es encontrar todas las parejas ocultas de imágenes antes de que se agote el tiempo.)*
 
 
@@ -45,11 +59,11 @@ npx tailwindcss init -p
 
 Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en/main) para obtener más información.
 
-## Authors
+## Autor
 
 - [Cristian Arias](https://www.github.com/Cristian0813)
 
-## Documentation
+## Documentación
 <div align="left">
    <a href="https://es.react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
     <img width="12" />
@@ -58,5 +72,5 @@ Consulta la documentación de [TailwindCss para vite](https://reactrouter.com/en
     <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
 </div>
 
-## License
-Este proyecto está bajo la [Licencia MIT](https://github.com/Cristian0813/Juego_de_Memoria/blob/main/LICENSE)
+## Licencia
+Este proyecto está bajo la [Licencia MIT](https://github.com/Cristian0813/Juegos-web/blob/main/juego_de_memoria/LICENSE)
