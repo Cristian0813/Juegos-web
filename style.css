@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ece9e9;
+}
+
+/* Estilizar el contenedor de información del juego */
+.game-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+/* Establecer tamaño de imagen */
+.game-info img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+/* Establecer disposición en filas */
+.game-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Centrar h2 sobre la imagen */
+.game-info h2 {
+    font-size: 12px;
+    text-align: center;
+}
+
+/* Footer en la mitad y alineado abajo */
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Centrar h1 en el header */
+.header {
+    text-align: center;
+}
+
+/* Eliminar margen superior predeterminado */
+.title {
+    margin-top: 0;
+}
+
+.game {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilizar el botón */
+.play-button {
+    display: inline-block;
+    background-color: #005397;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.play-button:hover {
+    background-color: #0a06fd;
+}
+
+/* Estilos responsivos */
+
+/* Pantallas pequeñas (móviles) */
+@media only screen and (max-width: 460px) {
+    .game-info img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .game-info h2 {
+        font-size: 10px;
+    }
+}
